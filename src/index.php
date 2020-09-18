@@ -19,7 +19,7 @@
 
                 <img src="assets/images/unicorn.jpg" valign="center">
 
-                <h1>Welcome in Copilot World v2</h1>
+                <h1>Welcome in Copilot World v3 - Session</h1>
                 
 
                 <?php
